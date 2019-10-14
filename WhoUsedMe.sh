@@ -13,8 +13,6 @@
 #
 ###############################################################################################################################################
 #
-# Notes: Does not require knowledge of previous password.
-#
 # Requires the following parameters be set.
 #		DOMAIN=$4
 #		USER=$5
